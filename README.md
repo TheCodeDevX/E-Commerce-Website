@@ -1,12 +1,32 @@
-# React + Vite
+# E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern e-commerce website featuring a product filtering system and a clean, responsive user interface (UI).
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+- this project is deployed on **Netlify**, you can visite here [E-Commerce Website Link](https://e-commercewebsiteby0mar.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Features
+Product Filtering: Filter products by entering a product name or selecting from a list.
 
-## Expanding the ESLint configuration
+Theme Toggle: Switch between dark and light themes for a personalized experience.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive UI: Fully responsive design, optimized for mobile and desktop devices.
+ 
+
+## Technologies Used
+- **React**: For building the user interface.
+- **Vanilla CSS & Tailwind**: For styling the application.
+
+## Installation
+
+### Clone the repository
+To get started, clone this repository to your local machine:
+#### Using HTTPS :
+```bash
+git clone https://github.com/TheCodeDevX/E-Commerce-Website.git
+```
+
+#### Using SSH :
+```bash
+git clone git@github.com:TheCodeDevX//E-Commerce-Website.git
+```
